@@ -1,0 +1,35 @@
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\bin\WcfTemp.dll.config
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\bin\WcfTemp.dll
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\bin\WcfTemp.pdb
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Debug\WcfTemp.csprojAssemblyReference.cache
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Debug\WcfTemp.csproj.CoreCompileInputs.cache
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Debug\WcfTemp.dll
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Debug\WcfTemp.pdb
+E:\Projects\Temp\WcfTemp\WcfTemp\bin\WcfTemp.dll.config
+E:\Projects\Temp\WcfTemp\WcfTemp\bin\WcfTemp.dll
+E:\Projects\Temp\WcfTemp\WcfTemp\bin\WcfTemp.pdb
+E:\Projects\Temp\WcfTemp\WcfTemp\obj\Debug\WcfTemp.csprojAssemblyReference.cache
+E:\Projects\Temp\WcfTemp\WcfTemp\obj\Debug\WcfTemp.csproj.CoreCompileInputs.cache
+E:\Projects\Temp\WcfTemp\WcfTemp\obj\Debug\WcfTemp.dll
+E:\Projects\Temp\WcfTemp\WcfTemp\obj\Debug\WcfTemp.pdb
+E:\Projects\KWHMETER\WcfKwh\WcfTemp\bin\WcfTemp.dll.config
+E:\Projects\KWHMETER\WcfKwh\WcfTemp\bin\WcfTemp.dll
+E:\Projects\KWHMETER\WcfKwh\WcfTemp\bin\WcfTemp.pdb
+E:\Projects\KWHMETER\WcfKwh\WcfTemp\obj\Debug\WcfTemp.csprojAssemblyReference.cache
+E:\Projects\KWHMETER\WcfKwh\WcfTemp\obj\Debug\WcfTemp.csproj.CoreCompileInputs.cache
+E:\Projects\KWHMETER\WcfKwh\WcfTemp\obj\Debug\WcfTemp.dll
+E:\Projects\KWHMETER\WcfKwh\WcfTemp\obj\Debug\WcfTemp.pdb
+E:\Projects\KWHMETERBC\WcfKwh\WcfTemp\bin\WcfTemp.dll.config
+E:\Projects\KWHMETERBC\WcfKwh\WcfTemp\bin\WcfTemp.dll
+E:\Projects\KWHMETERBC\WcfKwh\WcfTemp\bin\WcfTemp.pdb
+E:\Projects\KWHMETERBC\WcfKwh\WcfTemp\obj\Debug\WcfTemp.csprojAssemblyReference.cache
+E:\Projects\KWHMETERBC\WcfKwh\WcfTemp\obj\Debug\WcfTemp.csproj.CoreCompileInputs.cache
+E:\Projects\KWHMETERBC\WcfKwh\WcfTemp\obj\Debug\WcfTemp.dll
+E:\Projects\KWHMETERBC\WcfKwh\WcfTemp\obj\Debug\WcfTemp.pdb
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\bin\WcfTemp.dll.config
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\bin\WcfTemp.dll
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\bin\WcfTemp.pdb
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\obj\Debug\WcfTemp.csproj.AssemblyReference.cache
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\obj\Debug\WcfTemp.csproj.CoreCompileInputs.cache
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\obj\Debug\WcfTemp.dll
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\obj\Debug\WcfTemp.pdb

@@ -1,0 +1,103 @@
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\bin\WcfTemp.dll.config
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\bin\WcfTemp.dll
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\bin\WcfTemp.pdb
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Release\WcfTemp.dll
+C:\Users\aji.pangestu\source\repos\WcfTemp\WcfTemp\obj\Release\WcfTemp.pdb
+E:\Projects\Temp\WcfTemp\WcfTemp\bin\WcfTemp.dll.config
+E:\Projects\Temp\WcfTemp\WcfTemp\bin\WcfTemp.dll
+E:\Projects\Temp\WcfTemp\WcfTemp\bin\WcfTemp.pdb
+E:\Projects\Temp\WcfTemp\WcfTemp\obj\Release\WcfTemp.csprojAssemblyReference.cache
+E:\Projects\Temp\WcfTemp\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+E:\Projects\Temp\WcfTemp\WcfTemp\obj\Release\WcfTemp.dll
+E:\Projects\Temp\WcfTemp\WcfTemp\obj\Release\WcfTemp.pdb
+E:\Projects\Utility Application\Android\WcfKwh\WcfTemp\bin\WcfTemp.dll.config
+E:\Projects\Utility Application\Android\WcfKwh\WcfTemp\bin\WcfTemp.dll
+E:\Projects\Utility Application\Android\WcfKwh\WcfTemp\bin\WcfTemp.pdb
+E:\Projects\Utility Application\Android\WcfKwh\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+E:\Projects\Utility Application\Android\WcfKwh\WcfTemp\obj\Release\WcfTemp.dll
+E:\Projects\Utility Application\Android\WcfKwh\WcfTemp\obj\Release\WcfTemp.pdb
+E:\Projects\GAApar\WcfApar\WcfTemp\bin\WcfTemp.dll.config
+E:\Projects\GAApar\WcfApar\WcfTemp\bin\WcfTemp.dll
+E:\Projects\GAApar\WcfApar\WcfTemp\bin\WcfTemp.pdb
+E:\Projects\GAApar\WcfApar\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+E:\Projects\GAApar\WcfApar\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+E:\Projects\GAApar\WcfApar\WcfTemp\obj\Release\WcfTemp.dll
+E:\Projects\GAApar\WcfApar\WcfTemp\obj\Release\WcfTemp.pdb
+E:\Projects\InspeksiQC\WcfInspeksiQC\WcfTemp\bin\WcfTemp.dll.config
+E:\Projects\InspeksiQC\WcfInspeksiQC\WcfTemp\bin\WcfTemp.dll
+E:\Projects\InspeksiQC\WcfInspeksiQC\WcfTemp\bin\WcfTemp.pdb
+E:\Projects\InspeksiQC\WcfInspeksiQC\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+E:\Projects\InspeksiQC\WcfInspeksiQC\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+E:\Projects\InspeksiQC\WcfInspeksiQC\WcfTemp\obj\Release\WcfTemp.dll
+E:\Projects\InspeksiQC\WcfInspeksiQC\WcfTemp\obj\Release\WcfTemp.pdb
+E:\berbagi\Repo\Wcf_services\WcfWarehouseDataColl\WcfTemp\bin\WcfTemp.dll.config
+E:\berbagi\Repo\Wcf_services\WcfWarehouseDataColl\WcfTemp\bin\WcfTemp.dll
+E:\berbagi\Repo\Wcf_services\WcfWarehouseDataColl\WcfTemp\bin\WcfTemp.pdb
+E:\berbagi\Repo\Wcf_services\WcfWarehouseDataColl\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+E:\berbagi\Repo\Wcf_services\WcfWarehouseDataColl\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+E:\berbagi\Repo\Wcf_services\WcfWarehouseDataColl\WcfTemp\obj\Release\WcfTemp.dll
+E:\berbagi\Repo\Wcf_services\WcfWarehouseDataColl\WcfTemp\obj\Release\WcfTemp.pdb
+E:\My Project Apps\Service\WcfPasar\WcfTemp\bin\WcfTemp.dll.config
+E:\My Project Apps\Service\WcfPasar\WcfTemp\bin\WcfTemp.dll
+E:\My Project Apps\Service\WcfPasar\WcfTemp\bin\WcfTemp.pdb
+E:\My Project Apps\Service\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+E:\My Project Apps\Service\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+E:\My Project Apps\Service\WcfPasar\WcfTemp\obj\Release\WcfTemp.dll
+E:\My Project Apps\Service\WcfPasar\WcfTemp\obj\Release\WcfTemp.pdb
+D:\My Projects\Android\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll.config
+D:\My Projects\Android\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll
+D:\My Projects\Android\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.pdb
+D:\My Projects\Android\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+D:\My Projects\Android\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+D:\My Projects\Android\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.dll
+D:\My Projects\Android\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.pdb
+G:\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll.config
+G:\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll
+G:\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.pdb
+G:\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+G:\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+G:\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.dll
+G:\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.pdb
+D:\My Projects\Android\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll.config
+D:\My Projects\Android\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll
+D:\My Projects\Android\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.pdb
+D:\My Projects\Android\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+D:\My Projects\Android\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+D:\My Projects\Android\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.dll
+D:\My Projects\Android\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.pdb
+F:\My Project Android\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll.config
+F:\My Project Android\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll
+F:\My Project Android\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.pdb
+F:\My Project Android\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+F:\My Project Android\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+F:\My Project Android\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.dll
+F:\My Project Android\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.pdb
+E:\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll.config
+E:\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll
+E:\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.pdb
+E:\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+E:\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+E:\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.dll
+E:\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.pdb
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll.config
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.dll
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\Pasar\Pasar\WcfPasar\WcfTemp\bin\WcfTemp.pdb
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.dll
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\Pasar\Pasar\WcfPasar\WcfTemp\obj\Release\WcfTemp.pdb
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\WcfCryptoPrice\WcfTemp\bin\WcfTemp.dll.config
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\WcfCryptoPrice\WcfTemp\bin\WcfTemp.dll
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\WcfCryptoPrice\WcfTemp\bin\WcfTemp.pdb
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\WcfCryptoPrice\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\WcfCryptoPrice\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\WcfCryptoPrice\WcfTemp\obj\Release\WcfTemp.dll
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Pasar\WcfCryptoPrice\WcfTemp\obj\Release\WcfTemp.pdb
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\bin\WcfTemp.dll.config
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\bin\WcfTemp.dll
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\bin\WcfTemp.pdb
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\obj\Release\WcfTemp.csproj.AssemblyReference.cache
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\obj\Release\WcfTemp.csproj.CoreCompileInputs.cache
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\obj\Release\WcfTemp.dll
+C:\Users\aji.pangestu\OneDrive - Inter Aneka\Documents\Aji Project\Project\WcfNews\WcfTemp\obj\Release\WcfTemp.pdb
