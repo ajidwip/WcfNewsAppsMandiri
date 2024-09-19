@@ -28,7 +28,7 @@ namespace WcfTemp
             da.Fill(dt);
             temp.Temptable = dt;
 
-
+            \\con.close();
             con.Close();
 
             return temp;
